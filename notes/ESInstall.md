@@ -1,4 +1,4 @@
-####RPM方式安装
+#### RPM方式安装
 首先须确认JDK已经正确被安装
 ```
 #rpm -ivh elasticsearch-5.1.1.rpm
